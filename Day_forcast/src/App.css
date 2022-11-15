@@ -1,0 +1,45 @@
+#itm{
+    margin-top: -6%;
+    color: black;
+    text-align: center;
+    font-family: 'Acme';
+    box-shadow: 10px 6px black solid;
+    
+}
+h5{
+    color: black;
+    font-weight: bold;
+}
+#con{
+    height: 300px;
+    
+   
+   
+}
+#conte{
+    height: 300px;
+    width: 18rem;
+  
+
+    box-shadow: 10px 6px black solid;
+   
+}
+#deg{
+    font-weight: bold;
+    font-size: 40px;
+}
+#d{
+    font-weight: 400;
+    color: gray;
+    font-size: 22px;
+}
+#des{
+    font-weight:500;
+    font-size: 19px;
+    color: goldenrod;
+}
+#hed{
+    font-size: 30px;
+    font-weight: bold;
+    color: brown;
+}
